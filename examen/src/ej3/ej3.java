@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ej3 {
 	public static void main(String args[]) {
 		Scanner teclado = new Scanner(System.in);
-		/*
+		/*1
 		int menor;
 		int mayor;
 		int calculo= 1;
